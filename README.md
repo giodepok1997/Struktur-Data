@@ -1,3 +1,2 @@
-# Struktur-Data
-Tugas Mata Kuliah Struktur Data
+Link ke istn : istn.ac.id
 
